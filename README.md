@@ -1,7 +1,5 @@
 # Tugas-3-Pemrograman-Jaringan_1301188565
 
-## TUGAS 3 NETPRO ##
-
 <p align="center"
   <a><strong>  NAMA KELOMPOK :  </strong></a> 
 </p>
